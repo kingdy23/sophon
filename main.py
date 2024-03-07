@@ -47,7 +47,6 @@ class AccountManager:
                 account["status"] = status
                 break
 
-        # Обновляем файл accounts.csv
         with open("accounts.csv", "w", newline="") as file:
             writer = csv.DictWriter(file, fieldnames=["id", "proxy", "seed_phrase", "delay", "status"])
             writer.writeheader()
