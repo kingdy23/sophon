@@ -1,7 +1,7 @@
 USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 
 # tutorial - https://youtu.be/EnUJaF1IdMY
-PATH_TO_EXTENSION = 'C:\Users\denye\AppData\Local\Google\Chrome\User Data\Default\Extensions\nkbihfbeogaeaoehlefnkodbefgpgknn\11.11.0_0'
+PATH_TO_EXTENSION = ''
 
 SLEEP_BEFORE_ACCOUNT_MIN = 300
 SLEEP_BEFORE_ACCOUNT_MAX = 3600
